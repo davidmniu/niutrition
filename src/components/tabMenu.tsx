@@ -62,7 +62,7 @@ export function TabMenu() {
         />
         <Typography> Total Calories: {foodState.totalCalories} </Typography>
         <Typography> Total Protein: {foodState.totalProtein} </Typography>
-        <Typography>Calorie Calculator by <a href={"https://github.com/davidmniu"}>Niutrition</a></Typography>
+        <Typography>Calorie Calculator by <a href={"https://github.com/davidmniu/niutrition"}>Niutrition</a></Typography>
       </Box>
     );
   }
